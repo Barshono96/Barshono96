@@ -32,6 +32,12 @@ Other        14 mins         ▒░░░░░░░░░░░░░░░░
 ```
  
 <!--END_SECTION:waka-->
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ---
  
 ![](https://komarev.com/ghpvc/?username=Barshono96)  
