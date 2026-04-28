@@ -20,8 +20,8 @@ Skills: CSS / HTML / JS / MySql / PHP / MongoDB / Python / Next JS / Nuxt JS / R
 ![Barshono96's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Barshono96&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ```txt
-Vue.js       11 hrs 8 mins   ███████████████▒░░░░░░░░░   60.69 %
-TypeScript   4 hrs 56 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.91 %
+TypeScrip    11 hrs 8 mins   ███████████████▒░░░░░░░░░   60.69 %
+Nodejs       4 hrs 56 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.91 %
 JSON         46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
 Bash         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
 Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
